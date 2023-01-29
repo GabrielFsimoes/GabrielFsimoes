@@ -1,8 +1,9 @@
 # <div align="center"><p>Hi there, I'm Gabriel de Freitas Simões.<p/> <img width="200" height="200" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"/> <div/>
 ## Welcome to my Github profile.   
 #### About me:
-- 🌱 Studying to become a Full Stack Dev.
-- 👨‍🎓Student in SERRATEC Residência em TIC | Software 2022-2.
+ 
+- 👨‍💻 Jr. Full Stack Dev.
+- 👨‍🎓 Graduate in SERRATEC Residência em TIC | Software 2022-2.
 
 ## My contacts:
  <div>
